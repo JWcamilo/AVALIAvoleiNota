@@ -1,0 +1,45 @@
+.estilizacao {
+
+    width: 500px;
+    height: 400px;
+    margin-top: 2cm;
+    border: 2px solid black;
+    border-radius: 15px;
+    border: 2px solid yellow;
+
+}
+
+  
+.botao {
+
+    text-align: center; /* deixa o botao no centro do container */
+
+}
+
+.formulario {
+
+    margin-left: 0;
+    padding: 10px;
+
+}
+
+.btn {
+
+    padding: 10px; /* faz o espaço interno no botao avaliar jogador */
+
+}
+
+.table {
+
+    margin-top: 40px;
+
+}
+
+body {
+
+    background-image: url( ../imagens/PlanoDeFundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover 100vh;
+
+}

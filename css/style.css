@@ -1,0 +1,24 @@
+.card {
+
+    max-width: 600px; /* define o tamanho do cartao, deixa ele correto */
+    margin: 0 auto; /* define a margem para ficar ao centro de tudo */
+    border-radius: 2px; /* a borda redonda e sua circunferência */
+    margin-top: 2cm; 
+    margin-bottom: 4cm;
+    border: 2px solid yellow;
+
+}
+
+body {
+
+    background-image: url( ../imagens/PlanoDeFundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover 100vh;
+    
+}
+
+.navText{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
